@@ -35,6 +35,9 @@ hr {
     max-width: 400px;
     border-color: #999999;
 }
+.socialmedia {
+    padding-left: 25px;
+}
 .address{
     margin-left: 450px;
 }
